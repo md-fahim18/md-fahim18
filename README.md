@@ -5,6 +5,13 @@
   Hello, I'm <span style="color:#58A6FF">Md. Fahim</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"/>
 </h2>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=💻+Web+Developer+%7C+🚀+Software+Engineer;⚡+MERN+Stack+Enthusiast+%7C+🧩+Problem+Solver" alt="Typing SVG" />
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nafistarik&label=Profile%20views&color=58A6FF&style=for-the-badge&abbreviated=true" alt="profile-views"/>
+</p>
 <h2>🚀 About Me  </h2> 
 
 💻 **Full-Stack Web Developer** | Passionate about **Clean Code & Modern UI Design**  
