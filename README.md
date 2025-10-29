@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Hi+there!+I'm+Rishav+Kumar+🚀;" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Hi+there!+I'm+Md.+Fahim+🚀;" alt="Typing SVG">
 </p>
 
 ### Hi there! I'm Fahim Hossain Zarif 🚀  
