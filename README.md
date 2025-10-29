@@ -1,4 +1,10 @@
-<h1 align="center">Welcome to my GitHub! 👋</h1>
+<p align="center">
+  <img src="https://i.ibb.co.com/nMcR0kSJ/Grey-and-Black-Simple-Marketing-Linked-In-Banner.png" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Hi+there!+I'm+Rishav+Kumar+🚀;" alt="Typing SVG">
+</p>
 
 ### Hi there! I'm Fahim Hossain Zarif 🚀  
 💻 **Full-Stack Web Developer** | Passionate about **Clean Code & Modern UI Design**  
